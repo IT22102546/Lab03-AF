@@ -5,8 +5,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+
      "dev": "nodemon app.js",
     "start": "node app.js"
+    
+    
+
   },
   "keywords": [],
   "author": "",
